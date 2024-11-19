@@ -149,6 +149,6 @@ image: /images/platformer/backgrounds/home.png
 <div id="container" style="width: 250; padding: 10px; border: 1px solid #ccc; position: absolute; top: 300px; left: 50%; transform: translateX(-50%);">
   <header class="fun_facts">
     <p id="num" style="font-weight: bold; font-size: 14px;">Fun Fact #0</p>
-    <h3 id="fun_fact" style="font-size: 14px; margin-top: 10px;">Mario is named after the frustrated landlord, Mario Segale, of the Nintendo of America building.</h3>
+    <h3 id="fun_fact" style="font-size: 14px; margin-top: 10px;">Mario is named after the frustrated landlord, Mario Segale, of the Nintendo of America building</h3>
   </header>
 </div>
